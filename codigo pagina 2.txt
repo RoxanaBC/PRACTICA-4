@@ -1,0 +1,111 @@
+<!DOCTYPE html> 
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>Práctica 5</title>
+    </head>
+    <body background="fondo1.jpg">
+    <font face="Century Gothic"size="3"color="black">
+          <H1>MOTORES DE BASE DE DATOS</H1>
+    </font>
+     
+     <table border="1">
+           <thead>
+           <tr>
+               <th>TIPOS</th>
+               <th>DESCRIPCION</th>
+               <th>CARACTERISTICA</th>
+               <th>IMAGEN</th>
+            </tr>
+            <thead>
+       <tbody>
+             
+            <tr>
+             <td><b>MariaDB</b></td>
+            <td><b>Es un sistema de gestión de bases de datos que está muy relacionado con MySQL, ya que fue desarrollado por uno de los desarrolladores, Michael “Monty” Widenius.</b></td>
+             <td><b>  
+               <ul>
+               <LI>Mejoras en la velocidad</LI>
+               <LI>Extenciones</LI>
+               <LI>Errores y alertas</LI>
+               <LI>Documentacion y ayuda</LI>
+               <LI>Licencia GPl</LI></td>
+            </ul>
+            </td>
+             <td>
+             <img src="descarga1.jpg"alt="descarga1"
+             </td>
+              
+            </tr>
+            <tr>
+               <td><b>MySQL</b></td>
+           <td> <b>Es un sistema de administración y gestión de las bases de datos es considerado la principal base datos open source del mundo y es muy popular para desarrollos de aplicaciones específicas y desarrollo web.</b></td>
+                 <td><b>
+               <ul>
+               <LI>Arquitectura Cliente y Servidor</LI>
+               <LI>Compatibilidad con SQL</LI>
+               <LI>Procedimientos almacenados</LI>
+               <LI>Desencadenantes</LI>
+               <LI>Transacciones</LI></td>
+            </ul>
+            </td>
+            <td>
+               <img src="descarga22.jpg"alt="descarga22"
+               </td>
+
+
+            </tr>
+            <tr>
+           <td><b>PostgreSQL </b></td>
+           <dl>
+           <td><b>Es un sistema para gestionar bases de datos de muy alto nivel, completamente de software libre y con una licencia BSD, compatible con cualquier uso, ya sea personal o comercial</b></td>
+            <td><b> 
+              <ul>
+               <LI>El lenguaje SQL que usa es muy próximo al estándar ISO/IEC</LI>
+               <LI>Permite crear esquemas, tablas heredadas y triggers orientados a eventos que no poseen otros motores.</LI>
+               <LI>También provee una excelente escalabilidad vertical.</LI>
+            </td>
+            </ul></td>
+
+           <td>
+           <img src="descarga3.jpg"alt="descarga3"
+           </td> 
+           </tr>
+            <tr>
+               <td><b>Oracle</b></td>
+           <td><b>Es una herramienta para la gestión de bases de datos, usada principalmente por las grandes empresas para que estas puedan controlar y gestionar una gran cantidad de contenidos desde un solo archivo</b></td>
+                <td><b>
+               <ul>
+               <LI>Herramienta de administración gráfica intuitiva y cómoda de utilizar.</LI>
+               <LI>Control de acceso: tecnologías avanzadas para vigilar la entrada a los datos</LI>
+               <LI>Protección de datos</LI>
+               <LI>Alta disponibilidad</LI>
+               </td>
+            </ul></td>
+          
+           <td>
+           <img src="images.jpg"alt="images"
+           </td>
+           </tr>
+           <tr>
+           <td><b>SQL Server </b></td>
+           <td> <b>Es un sistema de gestión de base de datos relacional, desarrollado por la empresa Microsoft.
+El lenguaje de desarrollo utilizado (por línea de comandos o mediante la interfaz gráfica de Management Studio) es Transact-SQL (TSQL)</b></td>
+            <td><b>
+               <ul>
+               <LI>Soporte de transacciones</LI>
+               <LI>Escalabilidad, estabilidad y seguridad</LI>
+               <LI>Soporta procedimientos almacenados</LI>
+               <LI>Permite trabajar en modo cliente-servidor</LI></td>
+            </ul></td>
+          
+               <td>
+               <img src="descarga5.jpg"alt="descarga5"
+               </td>
+</tr>
+</table>
+<BR><CENTER><B>DISEÑADO POR: ROXANA BALCAZAR CAHUARE <BR></CENTER> <BR>
+</body>
+</html>
+
+
